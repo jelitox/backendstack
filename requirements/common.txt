@@ -45,7 +45,7 @@ pycparser==2.18
 configparser==3.5.0
 # redis
 redis==2.10.6
-django-redis==4.8.0
+django-redis==4.9.0
 django-redis-cache==1.7.1
 django-redis-sessions==0.6.1
 # celery
