@@ -5,7 +5,7 @@ gunicorn==19.8.1
 psycopg2==2.7.4
 gitdb2==2.0.3
 SQLAlchemy==1.2.7
-django-enumfields
+django-enumfields==0.10.0
 # others
 certifi==2018.1.18
 cffi==1.11.4
