@@ -22,7 +22,7 @@ django-celery-results==1.0.1
 django-debug-panel==0.8.3
 django-debug-toolbar==1.9.1
 django-debug-toolbar-request-history==0.0.7
-django-debugtools==1.7.2
+django-debugtools==1.7.3
 django-developer-panel==0.1.2
 django-enumfields==0.10.0
 django-filter==1.1.0
