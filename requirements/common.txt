@@ -8,7 +8,7 @@ SQLAlchemy==1.2.7
 django-enumfields==0.10.0
 # others
 certifi==2018.4.16
-cffi==1.11.4
+cffi==1.11.5
 chardet==3.0.4
 django-auth-adfs==0.2.1
 django-user-agents==0.3.2
