@@ -59,7 +59,7 @@ django-celerybeat-status==0.0.10
 git+https://github.com/celery/billiard.git#egg=billiard
 git+https://github.com/celery/kombu.git#egg=kombu
 ipdb==0.11
-djangorestframework==3.7.7
+djangorestframework==3.8.2
 markdown==2.6.11
 django-filter==1.1.0
 django-import-export==1.0.0
