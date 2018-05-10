@@ -1,6 +1,6 @@
 
 Django==2.0.5
-gunicorn==19.7.1
+gunicorn==19.8.1
 # databases and model
 psycopg2==2.7.3.2
 gitdb2==2.0.3
