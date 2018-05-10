@@ -39,7 +39,7 @@ et-xmlfile==1.0.1
 Fabric3==1.14.post1
 fabric3-virtualenv==0.3.1
 gitdb2==2.0.3
-GitPython==2.1.8
+GitPython==2.1.9
 gunicorn==19.8.1
 hiredis==0.2.0
 idna==2.6
