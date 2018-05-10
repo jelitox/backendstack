@@ -33,7 +33,7 @@ django-redis-cache==1.7.1
 django-redis-sessions==0.6.1
 django-sslserver==0.20
 django-user-agents==0.3.2
-djangorestframework==3.7.7
+djangorestframework==3.8.2
 ephem==3.7.6.0
 et-xmlfile==1.0.1
 Fabric3==1.13.1.post1
