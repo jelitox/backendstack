@@ -1,4 +1,4 @@
-amqp==2.2.2
+amqp==2.3.0
 asn1crypto==0.24.0
 asyncpg==0.15.0
 asyncpg-simpleorm==0.1.2
