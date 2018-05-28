@@ -78,7 +78,7 @@ rncryptor==3.2.0
 simplegeneric==0.8.1
 six==1.11.0
 smmap2==2.0.3
-SQLAlchemy==1.2.7
+SQLAlchemy==1.2.8
 sqlparse==0.2.4
 tablib==0.12.1
 traitlets==4.3.2
