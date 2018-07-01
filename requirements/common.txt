@@ -19,7 +19,7 @@ numpy==1.14.3
 openpyxl==2.5.2
 pandas==0.22.0
 paramiko==2.4.1
-Pillow==5.1.0
+Pillow==5.2.0
 #pkg-resources==0.0.0
 pyasn1==0.4.2
 PyJWT==1.6.1
