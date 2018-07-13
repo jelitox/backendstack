@@ -61,7 +61,7 @@ git+https://github.com/celery/kombu.git#egg=kombu
 ipdb==0.11
 djangorestframework==3.8.2
 markdown==2.6.11
-django-filter==1.1.0
+django-filter==2.0.0
 django-import-export==1.0.0
 django-autoslug==1.9.3
 hiredis==0.2.0
