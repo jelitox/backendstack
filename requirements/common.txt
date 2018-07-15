@@ -3,7 +3,7 @@ Django==1.11.13
 gunicorn==19.8.1
 # databases and model
 psycopg2==2.7.4
-gitdb2==2.0.3
+gitdb2==2.0.4
 SQLAlchemy==1.2.7
 django-enumfields==0.10.0
 # others
