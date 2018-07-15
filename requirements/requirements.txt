@@ -77,7 +77,7 @@ requests==2.18.4
 rncryptor==3.2.0
 simplegeneric==0.8.1
 six==1.11.0
-smmap2==2.0.3
+smmap2==2.0.4
 SQLAlchemy==1.2.7
 sqlparse==0.2.4
 tablib==0.12.1
