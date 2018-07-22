@@ -60,7 +60,7 @@ pexpect==4.5.0
 pickleshare==0.7.4
 Pillow==5.1.0
 pkg-resources==0.0.0
-prompt-toolkit==1.0.15
+prompt-toolkit==2.0.4
 psycopg2==2.7.4
 ptyprocess==0.5.2
 pyasn1==0.4.2
