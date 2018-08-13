@@ -7,7 +7,7 @@ gitdb2==2.0.3
 SQLAlchemy==1.2.7
 django-enumfields==0.10.0
 # others
-certifi==2018.4.16
+certifi==2018.8.13
 cffi==1.11.5
 chardet==3.0.4
 django-auth-adfs==0.2.1
