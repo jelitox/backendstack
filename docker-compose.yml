@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+  postgres:
+    restart: 'always'
+    ports:
+      - '5432:5432'
+    environment:
+      - "PG_DB_USER=javier"
+      - "PG_DB_PASSWORD=111111"
+      - "PG_DB_DATABASE_PROD=bs_prod"
+      - "PG_DB_DATABASE_TEST=bs_test"
+      - "POSTGRES_PASSWORD=111111"
+    build: './db-docker'
+    networks:
+      infranet:
+        aliases:
+          - 'postgres'
+
+# redis:
+#    image: redis
+#    ports:
+#      - '6379:6379'
+#    hostname: redis
+#    networks:
+#      infranet:
+#        aliases:
+#          - 'redis'
+
+  web:
+    build: .
+    command: python3 manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    networks:
+      infranet:
+        aliases:
+          - 'web'
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+
+networks:
+  infranet:
