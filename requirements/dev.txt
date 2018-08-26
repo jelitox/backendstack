@@ -4,4 +4,4 @@ django-debug-toolbar
 django-debug-toolbar-request-history
 django-debugtools
 django-sslserver
-django-developer-panel
+django-developer-panel==0.1.2
