@@ -1,6 +1,6 @@
 -r common.txt
 -r test.txt
-django-debug-toolbar
+django-debug-toolbar==1.9.1
 django-debug-toolbar-request-history
 django-debugtools
 django-sslserver
