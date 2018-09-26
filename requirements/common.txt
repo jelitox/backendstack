@@ -9,7 +9,7 @@ pycparser
 configparser
 #API DRF
 djangorestframework
-markdown
+markdown==3.0.1
 PyJWT
 six
 # Image Handler
