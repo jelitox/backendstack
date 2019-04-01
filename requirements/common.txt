@@ -1,5 +1,5 @@
 #Django Framework
-Django
+Django==2.2
 django-cors-middleware
 django-extensions
 # databases and model
