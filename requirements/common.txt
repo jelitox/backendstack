@@ -6,7 +6,7 @@ django-extensions
 psycopg2
 # config pycparser
 pycparser
-configparser
+configparser==4.0.1
 #API DRF
 djangorestframework
 markdown
