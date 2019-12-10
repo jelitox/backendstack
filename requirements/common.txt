@@ -1,6 +1,6 @@
 #Django Framework
 Django
-django-cors-middleware
+django-cors-middleware==1.5.0
 django-extensions
 # databases and model
 psycopg2
