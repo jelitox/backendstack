@@ -5,7 +5,7 @@ django-extensions
 # databases and model
 psycopg2
 # config pycparser
-pycparser
+pycparser==2.20
 configparser
 #API DRF
 djangorestframework
