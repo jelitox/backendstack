@@ -1,5 +1,5 @@
 django-jenkins
-coverage
+coverage==5.0.4
 Fabric3
 fabric3-virtualenv
 GitPython
