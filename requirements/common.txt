@@ -13,7 +13,7 @@ markdown
 PyJWT
 six
 # Image Handler
-Pillow
+Pillow==7.1.0
 
 
 
