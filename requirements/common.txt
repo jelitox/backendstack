@@ -1,7 +1,7 @@
 #Django Framework
 Django
 django-cors-middleware
-django-extensions
+django-extensions==3.1.0
 # databases and model
 psycopg2
 # config pycparser
