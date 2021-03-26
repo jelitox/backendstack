@@ -8,7 +8,7 @@ psycopg2
 pycparser
 configparser
 #API DRF
-djangorestframework
+djangorestframework==3.12.4
 markdown
 PyJWT
 six
