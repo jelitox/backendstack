@@ -2,6 +2,6 @@
 -r test.txt
 django-debug-toolbar
 django-debug-toolbar-request-history
-django-debugtools
+django-debugtools==2.0
 django-sslserver
 django-developer-panel
