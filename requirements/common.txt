@@ -3,7 +3,7 @@ Django==3.2.5
 django-cors-middleware
 django-extensions
 # databases and model
-psycopg2==2.9.1
+psycopg2==2.9.3
 # config pycparser
 pycparser
 configparser
