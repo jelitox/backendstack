@@ -2,4 +2,4 @@ django-jenkins
 coverage
 Fabric3
 fabric3-virtualenv
-GitPython==3.1.18
+GitPython==3.1.31
