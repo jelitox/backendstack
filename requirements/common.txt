@@ -1,5 +1,5 @@
 #Django Framework
-Django==3.2.5
+Django==5.0.4
 django-cors-middleware
 django-extensions
 # databases and model
