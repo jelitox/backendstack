@@ -3,5 +3,5 @@
 django-debug-toolbar
 django-debug-toolbar-request-history
 django-debugtools
-django-sslserver
+django-sslserver==0.22
 django-developer-panel
