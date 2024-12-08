@@ -10,7 +10,7 @@ configparser
 #API DRF
 djangorestframework
 markdown
-PyJWT
+PyJWT==1.6.4
 six
 # Image Handler
 Pillow
