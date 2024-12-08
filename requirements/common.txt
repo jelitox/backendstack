@@ -11,7 +11,7 @@ configparser
 djangorestframework
 markdown
 PyJWT
-six
+six==1.14.0
 # Image Handler
 Pillow
 
